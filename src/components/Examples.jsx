@@ -21,6 +21,7 @@ export default function Examples() {
       </div>
     );
   }
+
   return (
     <section id="examples">
       <h2>Examples</h2>
